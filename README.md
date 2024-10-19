@@ -1,4 +1,5 @@
 Comandos do jogo:
+
 pf: para frente 
 
 pt:para tras
