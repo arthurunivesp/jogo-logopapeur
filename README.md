@@ -1,7 +1,10 @@
 Comandos do jogo:
 pf: para frente 
+
 pt:para tras
+
 pd:para direita
+
 pe:para esquerda
 
 apague tudo : limpa tela
